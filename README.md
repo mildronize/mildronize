@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋 I'm Thada from 🇹🇭
 
-<!--
-**mildronize/mildronize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://thadaw.com">Blog</a>,
+<a href="mailto:thada.wth@gmail.com">Email</a>,
+<a href="https://www.linkedin.com/in/thada-wangthammang-281894a6/">linkedin</a>,
+<a href="https://thadaw.medium.com/"><i class="fab fa-medium"></i>Medium</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildronize&layout=compact&langs_count=9" alt="mildronize" />&nbsp;
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mildronize&show_icons=true&count_private=true&theme=algolia" alt="mildronize" />
+</p>
