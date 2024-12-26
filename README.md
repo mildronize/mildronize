@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Thada from 🇹🇭
 
-Getting know me via [my online CV](http://bit.ly/mildthada-notion-cv)
+Getting know me via [my Resume]([http://bit.ly/mildthada-notion-cv](https://thadaw.com/resume))
 
 <a href="https://thadaw.com">Blog</a>,
 <a href="mailto:thada.wth@gmail.com">Email</a>,
